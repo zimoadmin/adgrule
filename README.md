@@ -113,4 +113,4 @@ application:
 - 提交所有修改并等待 `Github Action` 执行，执行完成后相应规则生成在配置中指定的目录下
 
 
-- 👉 特别感谢@fordes123
+- 👉 特别感谢@fordes123@hululu1068
