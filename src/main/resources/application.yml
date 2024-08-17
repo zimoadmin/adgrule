@@ -28,6 +28,13 @@ application:
       - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
       - 'https://raw.githubusercontent.com/zimoadmin/adgrule/main/rule/user.txt' #ziyonguser
+      - 'https://easylist-downloads.adblockplus.org/easylist.txt' #EasyList(有效)
+      - 'https://easylist-downloads.adblockplus.org/easylistchina.txt' #EasyList china
+      - 'http://sub.adtchrome.com/adt-chinalist-easylist.txt' #广告终结者
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt' #AdAway Default Blocklist
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt' #AdGuard DNS filter
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt' #CHN: anti-AD
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt' #CHN: AdRules DNS List
       #自用添加↓
       - 'https://anti-ad.net/easylist.txt' #name: anti-AD
       #- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
