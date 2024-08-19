@@ -6,6 +6,10 @@
 ||msg.qy.net^
 !----------------------------2023-6-20----------------------------
 !efwef
+!---youtube
+||youtube.com/get_video_info**$domain=youtube.com
+||lb._dns-sd._udp.0.5.168.192.in-addr.arpa^$important
+||o1098464.ingest.sentry.io^$important
 !---搜狐视频
 /^http:\/\/v\.aty\.sohu\.com\/v\?cat=.*fee=0/>>>http://v.aty.sohu.com/v?cat=&act=&autoPlay=1&fee=1>>>>keyword=sohu
 !---优酷
