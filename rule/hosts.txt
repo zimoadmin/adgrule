@@ -1,4 +1,4 @@
-# Update time: 2024-09-10 13:07:24
+# Update time: 2024-09-10 14:09:42
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8481,6 +8481,7 @@
 0.0.0.0 www2.addfreestats.com
 0.0.0.0 gotinder.fr
 0.0.0.0 imserv002.adtech.us
+0.0.0.0 rbc-clientsupport1.com
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 ad.livere.co.kr
 0.0.0.0 pixel.adssafeprotected.com
