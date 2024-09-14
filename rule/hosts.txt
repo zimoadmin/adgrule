@@ -1,4 +1,4 @@
-# Update time: 2024-09-15 01:01:00
+# Update time: 2024-09-15 02:07:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8736,6 +8736,7 @@
 0.0.0.0 peomod.fr
 0.0.0.0 www.wppluginspro.com
 0.0.0.0 les-oncheres.fr
+0.0.0.0 mobile.parkandpay-ca.com
 0.0.0.0 east.05tz2e9.com
 0.0.0.0 adtag.cc
 0.0.0.0 cstatic.weborama.fr
