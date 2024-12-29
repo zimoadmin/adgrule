@@ -1,4 +1,4 @@
-# Update time: 2024-12-29 08:38:42
+# Update time: 2024-12-29 10:16:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8098,6 +8098,7 @@
 0.0.0.0 u5234.98.spylog.com
 0.0.0.0 gillout.oewabox.at
 0.0.0.0 feeds.videosz.com
+0.0.0.0 thebestone.click
 0.0.0.0 admarkt.marktplaats.nl
 0.0.0.0 eyestoip.com
 0.0.0.0 www.ultimatecounter.com
