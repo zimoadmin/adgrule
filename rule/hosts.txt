@@ -1,4 +1,4 @@
-# Update time: 2025-01-07 08:35:20
+# Update time: 2025-01-07 10:10:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -10249,6 +10249,7 @@
 0.0.0.0 ads17.focalink.com
 0.0.0.0 int.sitestat.com
 0.0.0.0 tax-canada2023.co
+0.0.0.0 myhst2024.com
 0.0.0.0 adserver.soloserver.com
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 denx.fr
