@@ -1,4 +1,4 @@
-# Update time: 2025-03-02 16:00:55
+# Update time: 2025-03-02 17:00:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8652,7 +8652,6 @@
 127.0.0.1 fp3.ads.stickyadstv.com.akadns.net
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 secure-sdk.imrworldwide.com
-127.0.0.1  localhost
 0.0.0.0 surfindave.com
 0.0.0.0 adserver.cams.com
 0.0.0.0 audacity.es
@@ -9865,6 +9864,7 @@
 0.0.0.0 paperg.com
 0.0.0.0 analytics.prx.org
 0.0.0.0 meridiameridia.3xforum.ro
+0.0.0.0 ptagercity.fr
 0.0.0.0 viacom.oewabox.at
 0.0.0.0 affimg.pop6.com
 0.0.0.0 www.lduhtrp.net
@@ -12425,6 +12425,7 @@
 0.0.0.0 theuseful.com
 0.0.0.0 www.asianread.com
 0.0.0.0 indexhu.adocean.pl
+0.0.0.0 pstatic.datafastguru.info
 0.0.0.0 yotube.com
 0.0.0.0 handbrake.es
 0.0.0.0 healthykids-food.com
@@ -13723,6 +13724,7 @@
 0.0.0.0 publishers.adscholar.com
 0.0.0.0 stampen.adtlgc.com
 0.0.0.0 aaa-architecten.nl
+0.0.0.0 ads24.net
 0.0.0.0 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 ad18.focalink.com
 0.0.0.0 doitformom.com
@@ -18268,6 +18270,7 @@
 0.0.0.0 www.specificclick.com
 0.0.0.0 firefox-updater.com
 0.0.0.0 keepyoungphone.bid
+0.0.0.0 www.hitbox.com
 0.0.0.0 freedailydownload.com
 0.0.0.0 stilnovo.fr
 0.0.0.0 vivalife.fr
@@ -20390,3 +20393,4 @@
 0.0.0.0 ads.oregonlive.com
 0.0.0.0 nctitds.top
 0.0.0.0 protection.LSpolice.com
+127.0.0.1  localhost
