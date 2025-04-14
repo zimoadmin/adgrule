@@ -1,4 +1,4 @@
-# Update time: 2025-04-15 05:00:44
+# Update time: 2025-04-15 06:01:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -13994,6 +13994,7 @@
 0.0.0.0 office-2023.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 bleachbit.com
+0.0.0.0 images.mediago.io
 0.0.0.0 neon-genesis-evangelion-online.fr
 0.0.0.0 dobbenetes.com
 0.0.0.0 pulharktheherald.112.2o7.net
