@@ -1,4 +1,4 @@
-# Update time: 2025-05-18 11:38:06
+# Update time: 2025-05-18 12:14:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,43 +54,42 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||sax*.sina.
 ||bdcpro*.techweb.com.cn^
+||38.33.15.*.gif
 ||67.21.92.*.gif
+||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
 ||res*.pinpai8.cn^
-||impservice*.youdao.com^
+||gcw*.2liang.cn^
 ||fanpingbi*.gaokao.com^
+||impservice*.yodao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
 ||ya*.dwstatic.com^
+||fpb*.51edu.com^
+||121.204.246.*.gif
+||js*.abolezi.com^
+||107.167.16.*.gif
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
-||107.167.22.*.gif
-||38.33.15.*.gif
-||adi*.cnool.net^
-||tupian888.*.bcebos.com^
-||same*.stockstar.com^
-||gcw*.2liang.cn^
-||impservice*.yodao.com^
-||ac*.faxingchina.com^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||sam*.baby-kingdom.com^
-||107.167.16.*.gif
 ||ky891.oss-*.aliyuncs.com^
+||107.167.22.*.gif
+||sax*.sina.
 ||dm*.ppzuowen.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
 ||bd*-ys.km.com^
+||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||120.27.*.html
-||fpb1.chinacar.
 ||8*.tianya.cn^
 ||113.17.188.*.js
 @@livemsg
-||fpb*.51edu.com^
-||js*.abolezi.com^
+||ax.*.ifeng.com^
 ||218.26.217.*.html
+||sam*.baby-kingdom.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||union*.365inews.com^
@@ -163,7 +162,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -177,6 +175,7 @@ advertisers.js|
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+@@||tongji.*kuwo.cn^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -275,89 +274,31 @@ advertisers.js|
 ||adwords*.*^
 728x90.jpg|
 ||acookie.*.gif?
-||mssdk*.capcutapi.com^
-||bar*.shinobi.jp^
-||an.yandex.
-||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
-||tracking*.euroads.fi^
-||sensorsdata*.read.duokan.com^
-||adservice.google.
-||i-*.ci360.sas.com^
-||a*.smlog.co.kr^
-||xlog*-*.tiktokv.com^
-||seller-log-collector.shopee.
-||iphone-caviar.ru*entranceId
-||w*statistics.info^
-||ubacollect-*.cloud.dbankcloud.cn^
-||mon-*.lemon8-app.us^
-||mon-*.lemon8-app.com^
-||v.tzbox*.xyz^
-||v.newsportal*.ru^
-||ubt.tracking.shopee.
-||u*.takru.com^
-||telemetry*.transcend.io^
-||metrics*.fitanalytics.com^
-||edgetrksvc.ebay.
-||popuptraf.
-||stats.zone-telechargement.
-||vst.videolink.
-||gonews*.net^
-||underclick.
-||stlog*-local.kakao.com^
-||orbit*.lun.ua^
-||popupclick.
-||ad*.thisisgame.com^
-||alishop*.ru^
-||dw-informer-*.newsru.com^
-||pixel*.adswizz.com
-||q*-publick.club^
-||ulog.*.ksapisrv.com^
-||letssex.
-||production-adserver-*.amazonaws.com^
-||sonar*.xy.fbcdn.net^
-||minitds-*.info^
-||banner*.kinogo.by^
-||servo-report.dvdfab.
-||analytics.ahrefs.
-||trk*.vidible.tv^
-||pop-under.
-||snowplow-collector-*.amazonaws.com^
-||sock*-goguardian.pusher.com^
-||talpa-analytics.
-||linkexchange.
-||sgtm.fairmont.
-||web-visor.
-||under-click.
-||pop-parad.
-||mediate-ios-*.hyprmx.com^
-||analytics.streamfab.
-||mediacontext.
-||videoclick.
-||broredir*s.site^
-||admulti.
-||report.*.gbqofs.io^
-||log-collector.shopee.
-||parkdomainreal*.site^
-||tnc16-*.byteoversea.com^
-||goodadvert.
-||popunder.
-||tracker.twenga.
-||srmdata-*.com^
-||adimg*.search.naver.net^
-||query*.petametrics.com^
-||icq-window.
-||stat*.1internet.tv^
-||collector.xhamster*.
-||icqwindow.
-||poptraf.
-||servo-report.keepstreams.*^
-||tw*.netcore.co.in^
-||v*.sitecounter.site^
 ||util-*.simply-hentai.com^
 ||centent.streamp1ay.
 ||142.91.159.
 ||admi2fib4exit^
 ||cintent.streanplay.
+||widgets.*.webengage.com^
+||stat.*.v-56.com^
+||ts-p2p*pull*com^
+||zazgiyoh*.world^
+||zcchyr*.xyz^
+||ws-p2p*pull*com^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||thezbpe5*.xyz^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||stats*.credit-cooperatif.coop^
+||zazgbqg*.xyz^
+||xy-*pcdn.msstatic.com^
+||v*.denakop.com^
+||w*.*skwai.com^
+||zbc6hye*.xyz^
+||tblog-*.kgslb.com^
+||zahrvfbd*.xyz^
+||zbc6hy*.live^
 ||host*.nti.nl^
 ||ping*.qq.com^
 ||cj1*.online^
@@ -373,18 +314,15 @@ advertisers.js|
 ||datacollect*.abtasty.com^
 ||collector-*.us.tvsquared.com^
 ||log*-misc-lf.amemv.com^
-||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
 ||f-log-*.grammarly.io^
-||zbc6hy*.live^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||mon*-*.tiktokv.us^
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
 ||iptracker-lb-*.amazonaws.com^
-||ts-p2p*pull*com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ce-global-track-*.amazonaws.com^
 ||customerevents.us-east-*.internal.dradis.netflix.com^
@@ -415,8 +353,6 @@ advertisers.js|
 ||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||zazgiyoh*.xyz^
-||stats*.credit-cooperatif.coop^
 ||ulog*.*^
 ||mcs-*.tiktok.com^
 ||ifengad.*.ifeng.com^
@@ -425,7 +361,6 @@ advertisers.js|
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
-||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
@@ -433,14 +368,10 @@ advertisers.js|
 ||events*.cre.ma^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
-||tblog-*.kgslb.com^
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
-||zahrvfbd*.xyz^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
-||zcchyr*.xyz^
-||zaqlovh*.xyz^
 ||ad*.zonaplus.tv^
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
@@ -458,10 +389,7 @@ advertisers.js|
 ||mads*z.com^
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
-||ws-p2p*pull*com^
 ||batchlogging*-eu.truecaller.com^
-||yhsfsdv*.com^
-||thezbpe5*.xyz^
 ||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
@@ -476,7 +404,6 @@ advertisers.js|
 ||clog*.yuanfudao.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
-||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -484,8 +411,6 @@ advertisers.js|
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||qn-*pcdn.cdn.huya.com^
-||zazgiyoh*.world^
-||zazgbqg*.xyz^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.px-cdn.net^
 ||ads*.zijieapi.com^
@@ -518,12 +443,10 @@ advertisers.js|
 ||collector-*.px-client.net^
 ||ej1*.online^
 ||log-*.epicdn.me^
-||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
-||xy-*pcdn.msstatic.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
@@ -542,7 +465,6 @@ advertisers.js|
 ||maas-*.phunware.com^
 ||api*.batmobi.net^
 ||hstats*.hepsiburada.com^
-||zabdybod*.club^
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
@@ -551,7 +473,6 @@ advertisers.js|
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
-||zbc6hye*.xyz^
 ||promo-*.vercel.app^
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
@@ -574,41 +495,130 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
-<!doctype html>
 <head>
 <body>
-||pixel*.production-public.tubi.io^
-||adserver*.euroweeklynews.com^
+<!doctype html>
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 analytics-*.aasaam.com
-||gtmdev.jabra.
-||creative*.bidease.com^
+||counter*.freecounter.ovh^
 ||tracking.olx.
-||teleriumads-*.netdna-ssl.com^
-||rum*.a.trbcdn.net^
-||analytics-api.dvdfab.
+||i-*.ci360.sas.com^
 ||xlog*-*.tiktokv.com^
+||track.zalando.
 |load.sst.
 ||sdk-*.moengage.com^
 ||rtlog*.tiktokv.us^
-||allsportsflix.
-||w*statistics.info^
-||v*-ad.video.yximgs.com^
+||iphone-caviar.ru*entranceId
+||subnewss*.net^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
-||ulog-*.ksapisrv.com^
-||prebid-*.rubiconproject.com^
+||ulog.*.kwai-pro.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
+||v.tzbox*.xyz^
+||u*.takru.com^
+||telemetry*.transcend.io^
+||videoclik.
+||poshalim.
+||gonews*.net^
+|load.gtm.
+||pixel-*.rubiconproject.com^
+||pixel.archive.
+||underclick.
+||bc.geocities.
+||tag-based.s3.*.amazonaws.com^
+||cpng.lol.^
+||alishop*.ru^
+||cnt.hd21.
+|load.sgtm.
+||dw-informer-*.newsru.com^
+||collect-v*.51.la^
+||q*-publick.club^
+||tccd.douglas.
+||iad-*.appboy.com^
+||suite*.linximpulse.net^
+||cl*.k5a.io^
+||servo-report.dvdfab.
+||snowplow-collector-*.amazonaws.com^
+||sock*-goguardian.pusher.com^
+|load.ss.
+||collector-*.tvsquared.com^
+||tracking-*.trnox.com^
+||web-visor.
+||1024wanzhai.
+||under-click.
+||videoclick.
+||report*.appmetrica.webvisor.com^
+||parkdomainreal*.site^
+||goodadvert.
+||stat.tiara.
+||tracker.twenga.
+||quangcao-*.epicdn.me^
+||rtlog*.tiktokv.com^
+||srmdata-*.com^
+||query*.petametrics.com^
+||icq-window.
+||button.blogs.yandex.
+||stat*.1internet.tv^
+||collector.xhamster*.
+||icqwindow.
+||imgpfx.arenavision.
+||pixel*.production-public.tubi.io^
+||adserver*.euroweeklynews.com^
+||an.yandex.
+||gtmdev.jabra.
+||creative*.bidease.com^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+||teleriumads-*.netdna-ssl.com^
+||rum*.a.trbcdn.net^
+||adservice.google.
+||analytics-api.dvdfab.
+||allsportsflix.
+||w*statistics.info^
+||v*-ad.video.yximgs.com^
+||ulog-*.ksapisrv.com^
+||prebid-*.rubiconproject.com^
 ||mssdk*.zijieapi.com^
+||mon-*.lemon8-app.us^
 ||adservice.google.co.*
+||mon-*.lemon8-app.com^
 ||23.109.82.
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||cnt.vivatube.
 ||rotabanner.
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
+||edgetrksvc.ebay.
 ||stats2.*.fdnames.com^
+||stats.zone-telechargement.
 ||ulog*.gifshow.com^
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
@@ -619,135 +629,121 @@ analytics-*.aasaam.com
 ||s*.skencituer.com^
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
-||bc.geocities.
-||tag-based.s3.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||putrr*.com^
-||cpng.lol.^
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
-||cnt.hd21.
-||tccd.douglas.
-||suite*.linximpulse.net^
+||pixel*.adswizz.com
+||ulog.*.ksapisrv.com^
+||banner*.kinogo.by^
 ||cnt.nuvid.
+||trk*.vidible.tv^
 ||t*.playdigo.live^
+||pop-under.
 ||basvformu*.xyz^
-|load.ss.
+||talpa-analytics.
+||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||pixelapi-*.cs.mysamba.tv^
+||sgtm.fairmont.
 ||ads-*.v.ssp.yahoo.com^
-||1024wanzhai.
 ||marketplace-*.hyprmx.com^
+||analytics.streamfab.
 ||tnc*.tiktokv.us^
-||report*.appmetrica.webvisor.com^
+||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
 ||tnc*.zijieapi.com^
-||rtlog*.tiktokv.com^
 ||cdn*.swaxis.com^
 ||use-trk*.bluevoox.com^
+||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||rb*.design.ru^
 ||st-n.ads*-adnow.com^
+||mssdk*.capcutapi.com^
 ||cnt.winporn.
 ||logs*.smithsonian.museum^
 ||t*.zcvh.net^
 ||ulog*.kwai-pro.com^
-||counter*.freecounter.ovh^
+||bar*.shinobi.jp^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||collector.hamsterix.
+||tracking*.euroads.fi^
+||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||a*.smlog.co.kr^
 ||ad*.bilgin.pro^
-||track.zalando.
+||seller-log-collector.shopee.
 ||advert*.livesportmedia.eu^
 ||px*.mediahills.ru^
-||subnewss*.net^
 ||23.109.87.
-||ulog.*.kwai-pro.com^
 ||t.delfi.
 ||hostingcloud.*.wasm^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||medialand.
 ||track.*.roku.com^
 ||rotaban.
 ||install*.zonastat.com^
 ||rusrestbest.
 ||prebid-cache*.ifunny.co^
+||v.newsportal*.ru^
 ||get-me-wow.
 ||mob*.novanewsapp.com^
+||ubt.tracking.shopee.
 ||cnt.proporn.
+||popuptraf.
 ||ulog*.kwaipros.com^
 ||events-*.op.hicloud.com^
 ||cnt.tubeon.
-||videoclik.
-||poshalim.
+||vst.videolink.
 ||158.247.208.
-|load.gtm.
-||pixel-*.rubiconproject.com^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
-||pixel.archive.
 ||track.tiara.
-|load.sgtm.
-||collect-v*.51.la^
+||stlog*-local.kakao.com^
+||orbit*.lun.ua^
+||popupclick.
+||ad*.thisisgame.com^
 |piwik.
-||iad-*.appboy.com^
-||cl*.k5a.io^
+||letssex.
+||production-adserver-*.amazonaws.com^
+||sonar*.xy.fbcdn.net^
+||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
+||analytics.ahrefs.
 ||ad.*.doubleclick.net^
 ||s*.adduplex.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
-||collector-*.tvsquared.com^
 ||adserver1.
-||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||backstory.ebay.
 ||adx-*.dbankcloud.
+||pop-parad.
+||mediate-ios-*.hyprmx.com^
 ||snowplow-collector.
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||www.fuze-hill*.xyz^
+||mediacontext.
 ||stats-*.p2pnow.ru^
+||broredir*s.site^
+||admulti.
+||report.*.gbqofs.io^
+||tnc16-*.byteoversea.com^
 ||mobiadvert*.livesportmedia.eu^
+||popunder.
 ||livetracker.*.pangea-cms.com^
-||stat.tiara.
-||quangcao-*.epicdn.me^
 ||rotator.
 ||pixel-*.convertagain.net^
 ||mf*.advantage.as^
-||button.blogs.yandex.
 ||collector*.ex.co^
+||poptraf.
 ||zbb.bbb.*.pics^
-                }
-            2025 Copyright | All Rights Reserved.
-<style>
-        ];
-    Privacy Policy
-    }
-                    return;
-    };
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    <script>
-                arguments.push(this[possibleArguments[i]]);
-<!DOCTYPE html>
-body {
-        return arguments;
-}
-			Buy this domain. | More domains at Seo.Domains
-    xhr.send();
-            } else {
-    function getLoadFeedArguments() {
-                console.log(JSON.parse(xhr.responseText))
-        }
-                console.log('There was a problem with the request.');
-            }
-<script>
-};
-            pageOptions
-||imgpfx.arenavision.
+||servo-report.keepstreams.*^
+||tw*.netcore.co.in^
+||v*.sitecounter.site^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
