@@ -1,4 +1,4 @@
-# Update time: 2025-10-17 05:01:20
+# Update time: 2025-10-17 06:00:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -9658,6 +9658,7 @@
 0.0.0.0 click.payserve.com
 0.0.0.0 datajobs.fr
 0.0.0.0 10tide.com
+0.0.0.0 bizlawpoint.com
 0.0.0.0 loadthatpage.com
 0.0.0.0 www.syncaccess.net
 0.0.0.0 georgewbush.112.2o7.net
