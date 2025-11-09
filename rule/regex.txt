@@ -1,6 +1,7 @@
 # Update time: 2025-11-09 16:37:58
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
-
+# 免责声明，维护不易，有问题联系，Q2114408211
+白名单自行添加：https://ghfast.top/https://raw.githubusercontent.com/zimoadmin/adgrule/main/rule/whitelist
 ###################################   合并/去重自以下规则   ####################################
 # - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
 # - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
@@ -754,3 +755,4 @@ rgmechanicsgames.com*VPN.exe
 ||fxhpaoxqyajvmdg.
 ||prebid-*.rubiconproject.com^
 Banner468x60
+
