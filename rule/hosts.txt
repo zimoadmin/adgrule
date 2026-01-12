@@ -1,4 +1,4 @@
-# Update time: 2026-01-12 10:58:15
+# Update time: 2026-01-12 12:07:35
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -5312,6 +5312,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 tr.wl.webads.nl
 0.0.0.0 cdn.owebanalytics.com
 0.0.0.0 banner.monacogoldcasino.com
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 cnn.122.2o7.net
 0.0.0.0 cnn-africa.co
 0.0.0.0 ads.bluemountain.com
