@@ -1,4 +1,4 @@
-# Update time: 2026-01-18 03:00:41
+# Update time: 2026-01-18 04:00:48
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -9866,6 +9866,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 www6.counter.bloke.com
 0.0.0.0 old.umcl.us
 0.0.0.0 apx.moatads.com
+0.0.0.0 trevia.za.com
 0.0.0.0 local-download.com
 0.0.0.0 counter16.bravenet.com
 0.0.0.0 out.popads.net
