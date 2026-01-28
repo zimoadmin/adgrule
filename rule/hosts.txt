@@ -1,4 +1,4 @@
-# Update time: 2026-01-29 06:14:09
+# Update time: 2026-01-29 07:14:49
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -11472,6 +11472,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 pathforpoints.com
+0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 adserver.adtech.de
 0.0.0.0 wytypowany-zwyciezca.com
 0.0.0.0 aliecpress.fr
