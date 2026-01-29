@@ -1,4 +1,4 @@
-# Update time: 2026-01-29 14:29:49
+# Update time: 2026-01-29 15:31:18
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -4083,6 +4083,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 bigdata.adups.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 msft-ssp-emea.adnxs.com
+0.0.0.0 saouryadi.in
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 w157.hitbox.com
 0.0.0.0 accomodation-tastes.net
