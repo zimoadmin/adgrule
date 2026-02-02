@@ -1,4 +1,4 @@
-# Update time: 2026-02-03 02:23:45
+# Update time: 2026-02-03 07:15:00
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -4734,6 +4734,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 req.adsmogo.com
 0.0.0.0 www.webtrekk.net
 0.0.0.0 ibg.hitbox.com
+0.0.0.0 www.wondertravelegypt.com
 0.0.0.0 a.rad.live.com
 0.0.0.0 ads.fool.com
 0.0.0.0 theuseful.net
@@ -9428,6 +9429,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 fl01.ct2.comclick.com
 0.0.0.0 ad3digital.checkm8.com
 0.0.0.0 rcm-images.amazon.com
+0.0.0.0 sjgoodandcompany.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 web-page.co
 0.0.0.0 wac.2ddcc.alphacdn.net
