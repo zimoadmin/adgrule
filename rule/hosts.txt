@@ -1,4 +1,4 @@
-# Update time: 2026-03-08 01:10:11
+# Update time: 2026-03-08 02:15:00
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -6054,6 +6054,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 js.bizographics.com
 0.0.0.0 oascentral.clearchannel.com
 0.0.0.0 metrics.ktvb.com
+0.0.0.0 www.griffinlist.com
 0.0.0.0 repostuj.push-ad.com
 0.0.0.0 www.freeipoduk.co.uk
 0.0.0.0 vidroll.ru
