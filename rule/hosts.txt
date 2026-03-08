@@ -1,4 +1,4 @@
-# Update time: 2026-03-09 02:15:11
+# Update time: 2026-03-09 03:13:45
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -13781,6 +13781,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 ad.adnet.biz
 0.0.0.0 imserv00x.adtech.fr
 0.0.0.0 affpool.com
+0.0.0.0 femidignity.org
 0.0.0.0 phonejapan.com
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 ads.adsinimages.com
