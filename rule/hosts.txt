@@ -1,4 +1,4 @@
-# Update time: 2026-03-26 09:04:30
+# Update time: 2026-03-26 12:19:56
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -2185,6 +2185,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 s07.hostcontent.live
 0.0.0.0 test.minr.pw
 0.0.0.0 aeros11.tk
+0.0.0.0 api.inwemo.com
 0.0.0.0 rock2.authcaptcha.com
 0.0.0.0 play.on.animeteatr.ru
 0.0.0.0 minero.pw
@@ -2607,7 +2608,6 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 ad.eurosport.com
 0.0.0.0 play.traffpartners.com
 0.0.0.0 crarefundsreview.com
-0.0.0.0 api.inwemo.com
 0.0.0.0 cinemasouslesetoiles.fr
 0.0.0.0 monarchy.nl
 0.0.0.0 sq2trk2.com
