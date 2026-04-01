@@ -1,4 +1,4 @@
-# Update time: 2026-04-01 09:12:13
+# Update time: 2026-04-01 12:36:08
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -2702,6 +2702,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.catholic.org
 0.0.0.0 loadm.exelator.com
+0.0.0.0 www.cookoven.com
 0.0.0.0 c.ie.msn.com
 0.0.0.0 c.es.msn.com
 0.0.0.0 ns38541.ovh.net
@@ -5866,6 +5867,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 yumenetworks.com
 0.0.0.0 knowseminar.com
 0.0.0.0 cdn.fastclick.net	# sites. 
+0.0.0.0 www.forexhelps.com
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 edchargina.pro
 0.0.0.0 ads12.focalink.com
@@ -10596,6 +10598,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
 0.0.0.0 www.805m.com
+0.0.0.0 www.technygrow.com
 0.0.0.0 tates.freestats.com
 0.0.0.0 adsrv.me
 0.0.0.0 ltk.pw
