@@ -1,4 +1,4 @@
-# Update time: 2026-05-18 00:41:25
+# Update time: 2026-05-18 01:43:46
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -3981,6 +3981,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 www.justhookup.com
 0.0.0.0 www.pepernity.com
 0.0.0.0 adv.lampsplus.com
+0.0.0.0 etronella.bizneswarszawa.info
 0.0.0.0 passportindex.fr
 0.0.0.0 dhcpserver.net
 0.0.0.0 data-failover.eroadvertising.com
