@@ -1,4 +1,4 @@
-# Update time: 2026-06-14 01:04:31
+# Update time: 2026-06-14 03:01:45
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -6080,6 +6080,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 mjxads.internet.com
 0.0.0.0 volksaddiction.nl
 0.0.0.0 w131.hitbox.com
+0.0.0.0 livsfs.today
 0.0.0.0 rtag.fr
 0.0.0.0 www.adpowerzone.com
 0.0.0.0 stats.independent.co.uk
