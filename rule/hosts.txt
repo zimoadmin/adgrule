@@ -1,4 +1,4 @@
-# Update time: 2026-07-14 04:03:20
+# Update time: 2026-07-14 05:40:32
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -4523,6 +4523,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 sfads.osdn.com
 0.0.0.0 u604.41.spylog.com
 0.0.0.0 ads.harpers.org
+0.0.0.0 genuinepeople.cc
 0.0.0.0 pro.letv.com
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 www.teafortune.com
@@ -10567,6 +10568,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 ad2.pl
 0.0.0.0 c.it.msn.com
 0.0.0.0 ads.profitsdeluxe.com
+0.0.0.0 thesciencequest.info
 0.0.0.0 ysiu.freenation.com
 0.0.0.0 www.trafficmagnet.net # web bugs in spam
 0.0.0.0 prizes.co.uk
