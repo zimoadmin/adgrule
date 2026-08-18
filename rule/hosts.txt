@@ -1,4 +1,4 @@
-# Update time: 2026-08-19 06:07:58
+# Update time: 2026-08-19 07:09:41
 # Repo URL: 免责声明，维护不易，有问题联系，Q2114408211
 AdGuard、AdGuardHome广告过滤规则合并/去重
 
@@ -5583,6 +5583,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 s.innovid.com
 0.0.0.0 alphlauren.fr
 0.0.0.0 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+0.0.0.0 www.paradisepcgames.com
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 www.tao123.com
 0.0.0.0 rd1.hitbox.com
@@ -12135,6 +12136,7 @@ AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 www.ricontools.com
 0.0.0.0 adserver.sextracker.com
+0.0.0.0 www.ofimaniaweb.com
 0.0.0.0 buresova-obrazy.wz.cz
 0.0.0.0 www.coinzilla.io
 0.0.0.0 adserver.matchcraft.com
