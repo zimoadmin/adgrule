@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - hosts.txt
-# Update time: 2026-09-09 03:00:47
+# Update time: 2026-09-09 06:03:41
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # Upstream: https://github.com/hululu1068/AdGuard-Rule
@@ -3527,6 +3527,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
+0.0.0.0 www.aaaddedbenifits.com
 0.0.0.0 www.aagofwi.com
 0.0.0.0 www.aaringtone.com
 0.0.0.0 www.abetterinternet.com
@@ -4370,6 +4371,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.trustaddons.com
 0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
+0.0.0.0 www.tuscanypointevillas.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
