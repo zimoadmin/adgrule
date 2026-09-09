@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - hosts.txt
-# Update time: 2026-09-10 05:17:23
+# Update time: 2026-09-10 07:34:05
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # Upstream: https://github.com/hululu1068/AdGuard-Rule
@@ -3763,6 +3763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.edwardmartino.com
 0.0.0.0 www.ekkekkocapital.com
 0.0.0.0 www.elanactivewear.com
+0.0.0.0 www.elchavotortas.com
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
@@ -4062,6 +4063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.myfurnituresirplus.com
+0.0.0.0 www.myguidedreaders.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.mylovecards.com
@@ -8019,6 +8021,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cleancrdio.shop
 0.0.0.0 cleaningformac.com
 0.0.0.0 clearonclick.com
+0.0.0.0 clearviewhub9.cc
 0.0.0.0 clevernt.com
 0.0.0.0 clhctrk.com
 0.0.0.0 click.a-ads.com
