@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - hosts.txt
-# Update time: 2026-09-10 23:15:03
+# Update time: 2026-09-11 02:43:04
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # Upstream: https://github.com/hululu1068/AdGuard-Rule
@@ -4027,6 +4027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 www.match3quests.com
 0.0.0.0 www.matifi.com
+0.0.0.0 www.mdarussellhobbs.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.meecheck.com
