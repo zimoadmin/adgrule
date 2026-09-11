@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-09-11 07:27:08
+# Update time: 2026-09-11 09:32:56
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # Upstream: https://github.com/hululu1068/AdGuard-Rule
@@ -98476,6 +98476,7 @@ meijutt.*/js/pcjs/
 ||gd-singapore.com/data/1724/aimg/rloadbnus-ibc26.
 ping0.cc##.xeeles
 ping0.cc###adjright
+hsex.tv###Austin + a
 xifanacg.com##.head-more-a ~ .swiper-slide
 169bbs.com##.a_f
 kanju.ai##.movie-player-info-ad-grid
