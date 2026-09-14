@@ -14,7 +14,7 @@ public class Constant {
     public static final String EXPIRES = "# Expires: 1 hour\r\n";
 
     public static final String REPO_URL =
-            "# Repo URL: https://github.com/zimoadmin/adgrule\r\n# Upstream: https://github.com/hululu1068/AdGuard-Rule\r\n# 免责声明，维护不易，有问题联系，Q2114408211\r\n\r\n";
+            "# Repo URL: https://github.com/zimoadmin/adgrule\r\n# 免责声明，维护不易，有问题联系，Q2114408211\r\n\r\n";
 
     public static final String OUTPUT_HEADER =
             "###################################   合并/去重自以下规则   ####################################\r\n";
