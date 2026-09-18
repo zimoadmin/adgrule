@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - hosts.txt
-# Update time: 2026-09-19 04:01:52
+# Update time: 2026-09-19 06:52:54
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -3681,6 +3681,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cjkassociates.co.in
 0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
+0.0.0.0 www.classeroom.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
 0.0.0.0 www.clearacreonline.com
