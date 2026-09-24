@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - hosts.txt
-# Update time: 2026-09-24 09:42:57
+# Update time: 2026-09-24 14:49:09
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -12,7 +12,6 @@
 # - 'https://abp.oisd.nl/basic/'
 # - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt'
 # - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts'
-# - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt'
 # - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
 # - 'https://raw.githubusercontent.com/zimoadmin/adgrule/main/rule/user.txt'
 # - 'https://easylist-downloads.adblockplus.org/easylist.txt'
