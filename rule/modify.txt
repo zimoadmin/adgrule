@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-09-27 16:36:05
+# Update time: 2026-09-27 22:20:20
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -1486,6 +1486,11 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 #@#.ads_banner
 ##.stickyads:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"], [data-freestar-ad="123"]):not(:empty)
 ##.ads_banner:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"]):not(:empty)
+naijavault.com#$##adblock-modal { display: none !important; }
+naijavault.com#$##adblock-backdrop { display: none !important; }
+naijavault.com#$#body { overflow: auto !important; }
+@@||cdn.adsbetnet.com/libs/$script,domain=naijavault.com
+naijavault.com#@#.ad-unit:not(.textads)
 uploadcloud.pro#%#//scriptlet('prevent-addEventListener', 'load', 'Monitoring started')
 uploadcloud.pro###container > div[id]:has(> div[class][style^="z-index: 999999; background:"])
 ||up-4ever.net/js/dlcheck.js
@@ -98124,7 +98129,10 @@ otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-p
 -1321533417.cos.
 -1325890192.cos.
 .buzz/*=$object,third-party
-.com/js/bnnr_
+.com/img/bnnr1_
+.com/img/bnr1_*.gif
+.com/img/bnr2_*.gif
+.com/img/bnr3_*.gif
 .com/pc/ad/
 .com/rs/in/*?n=$script,third-party
 .com/rs/shto/$third-party
@@ -98164,9 +98172,6 @@ otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-p
 /html/709/*.js
 /huya/main3/widget_roomGaTop_
 /jianpian.obs.cn-
-/js/huath_2.js
-/js/mmdaohang_2.js
-/js/yueyupp_3.js
 /k228.oss-
 /kg2.oss-
 /live173/640320_
@@ -116574,6 +116579,14 @@ darumasushiantofagasta.cl##+js(aost, Function, /bxslider|wow/)
 ||cloudflare-check.net^$all
 /\/t\.js\?site=[a-f0-9]{32}\b/$script,3p,match-case
 ##body.wp-singular > div[id$="-overlay"] > div[id$="-container"] > div[class*="-container"] > div[id$="-checkbox-window"]
+||lichsuvanhoa.net^$all
+||diabetescareth.com^$all
+||clickzona.net^$all
+||trackerredirect.online^$all
+||campaigntracker.icu^$all
+/^https:\/\/[a-z]{15,}\.[a-z]{3,}\/embed\.js\?v=\d+$/$script,3p,match-case,to=~com|~net|~org
+/^https:\/\/[a-z]{8,}\.[a-z]+\/[a-zA-Z][a-z]+_[Pp]roliv\/api\?ver=\d\.\d\.\d$/$script,3p,match-case
+/^https:\/\/[-a-z]{9,}\.net\/embed\/[a-f0-9]{16}\?embed=1&host=/$frame,3p,match-case,to=net
 ||cracksway.com^$all
 ||gamingdebates.com^$all
 ||bonzi.link^$all
