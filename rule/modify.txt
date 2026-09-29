@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-09-29 18:56:12
+# Update time: 2026-09-30 00:40:09
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -3030,10 +3030,10 @@ eshentai.tv#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ||eshentai.tv/app/eshentai/themes/assets/js/sukuna.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eshentai.tv
 ||freepreset.net/wp-content/uploads/fdbeae/fbbeab.js
-conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#%#//scriptlet('prevent-addEventListener', 'load', 'detect-modal')
+poppednews.com,conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#%#//scriptlet('prevent-addEventListener', 'load', 'detect-modal')
 conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,techfinancials.co.za#%#//scriptlet('prevent-requestAnimationFrame', 'testWrap.clientHeight')
-conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,techfinancials.co.za,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#@#.ad-slot
-conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,techfinancials.co.za,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#@#.ad-250
+poppednews.com,conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,techfinancials.co.za,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#@#.ad-slot
+poppednews.com,conceptartworld.com,themezon.net,mrproblogger.com,brutaluniverse.com,animestotais.com.br,techfinancials.co.za,med-techinsights.com,bdn71.com,kampalaedgetimes.com,aljaras.com,nordest24.it,theouterhaven.net#@#.ad-250
 1025kiss.com,1027kord.com,1037theloon.com,103gbfrocks.com,103kkcn.com,1057crushfm.com,1057thehawk.com,1057thexrocks.com,1061evansville.com,1063cowboycountry.com,1063thebuzz.com,1075zoofm.com,1079ishot.com,929nin.com,929thebull.com,943thepoint.com,943thex.com,963theblaze.com,96xrocks.com,973rivercountry.com,973thedawg.com,975kgkl.com,979kickfm.com,97rockonline.com,983thesnake.com,98country.com,999ktdy.com,999thepoint.com,banana1015.com,bigfrog104.com,blakefm.com,bozemanskissfm.com,catcountry1073.com,classicrock1051.com,club937.com,gator995.com,highway989.com,k945.com,k96fm.com,k99.com,katsfm.com,kbat.com,kctr.com,keanradio.com,keyj.com,keyw.com,kezj.com,kffm.com,kfmx.com,kfox95.com,kicks105.com,kisscasper.com,kisselpaso.com,kissfm969.com,kixs.com,kkcb.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,knue.com,kqbr.com,kqvt.com,kxkx.com,kygl.com,kyssfm.com,lonestar1023.com,mix108.com,mix925abilene.com,mix931fm.com,mix949.com,my1035.com,mychannel957.com,mycountry955.com,mykisscountry937.com,power1029noco.com,power959.com,q103albany.com,q1077.com,river967.com,rock967online.com,sojo1049.com,us103.com,wbkr.com,wbnq.com,wgna.com,wgrd.com,wkdq.com,wyrk.com,xlcountry.com,y95country.com,z94.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1025kiss.com|1027kord.com|1037theloon.com|103gbfrocks.com|103kkcn.com|1057crushfm.com|1057thehawk.com|1057thexrocks.com|1061evansville.com|1063cowboycountry.com|1063thebuzz.com|1075zoofm.com|1079ishot.com|929nin.com|929thebull.com|943thepoint.com|943thex.com|963theblaze.com|96xrocks.com|973rivercountry.com|973thedawg.com|975kgkl.com|979kickfm.com|97rockonline.com|983thesnake.com|98country.com|999ktdy.com|999thepoint.com|banana1015.com|bigfrog104.com|blakefm.com|bozemanskissfm.com|catcountry1073.com|classicrock1051.com|club937.com|gator995.com|highway989.com|k945.com|k96fm.com|k99.com|katsfm.com|kbat.com|kctr.com|keanradio.com|keyj.com|keyw.com|kezj.com|kffm.com|kfmx.com|kfox95.com|kicks105.com|kisscasper.com|kisselpaso.com|kissfm969.com|kixs.com|kkcb.com|kkyr.com|klaq.com|klaw.com|klubtejano.com|kmhk.com|knue.com|kqbr.com|kqvt.com|kxkx.com|kygl.com|kyssfm.com|lonestar1023.com|mix108.com|mix925abilene.com|mix931fm.com|mix949.com|my1035.com|mychannel957.com|mycountry955.com|mykisscountry937.com|power1029noco.com|power959.com|q103albany.com|q1077.com|river967.com|rock967online.com|sojo1049.com|us103.com|wbkr.com|wbnq.com|wgna.com|wgrd.com|wkdq.com|wyrk.com|xlcountry.com|y95country.com|z94.com
 theridgefieldpress.com,thetelegraph.com,beaumontenterprise.com,bigrapidsnews.com,chron.com,ctinsider.com,ctpost.com,darientimes.com,seattlepi.com,expressnews.com,fuelfix.com,greenwichtime.com,houstonchronicle.com,lakecountystar.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,milfordmirror.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,ncadvertiser.com,newstimes.com,nhregister.com,ourmidland.com,recordpatriot.com,registercitizen.com,seattlepi.com,sfchronicle.com,sfgate.com,sheltonherald.com,smallbusiness.chron.com,stamfordadvocate.com,theheraldreview.com,thehour.com,theintelligencer.com,timesunion.com,trumbulltimes.com,weekand.com,wiltonbulletin.com,work.chron.com,yourconroenews.com#@#[name^="google_ads_iframe"]
@@ -8547,6 +8547,9 @@ auto.am##.azd-top
 .az/reklamexport_
 ##.ainsyndication
 az##.makerekframe
+||day.az/ads/
+news.day.az##div[id^="DAY_Slot_"]
+news.day.az##.banner-wrapper
 ucuztap.az##a[rel="noopener nofollow sponsored"]
 trend.az#$?##masthead-strip { remove: true; }
 trend.az##.banner-on-visible
@@ -10210,6 +10213,7 @@ livesport.ge###footerbanner
 ||livesport.ge/js/banner.js
 ||autopapa.ge/system/content/banners
 autopapa.ge##.top-rek
+techmaniacs.gr##.border-slate-200:has(> div.items-center > ins.adsbygoogle)
 enikos.gr##.flex-col.h-full:has(> h4.font-bold)
 enikos.gr##.sticky:has(> p.font-medium)
 enikos.gr##.flex-col.h-full:has(> p.font-medium)
@@ -21447,7 +21451,6 @@ www.youtube.com#%#//scriptlet('json-prune', 'contents.twoColumnBrowseResultsRend
 www.youtube.com#%#//scriptlet('json-prune', 'ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.[].tabRenderer.content.richGridRenderer.contents.[-].richItemRenderer.content.adSlotRenderer')
 www.youtube.com#%#(()=>{let t=!1;const i={apply:(i,n,a)=>{try{!t&&window.ytInitialData&&(window.ytInitialData=JSON.parse(JSON.stringify(window.ytInitialData)),t=!0)}catch(t){}return Reflect.apply(i,n,a)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then,i)})();
 www.youtube.com#%#//scriptlet('set-constant', 'ytcfg.data_.EXPERIMENT_FLAGS.web_streaming_watch', 'false')
-www.youtube.com#%#//scriptlet('prevent-setTimeout', '(),a,b)', '5000')
 m.youtube.com#%#//scriptlet('json-prune', 'playerResponse.messages.[].youThereRenderer')
 m.youtube.com#%#(()=>{const t={apply:(t,e,n)=>{if(location.href.includes("/shorts/")||location.href.includes("youtube.com/tv")||location.href.includes("youtube.com/embed/"))return Reflect.apply(t,e,n);try{const a=n[0];if(!a?.context?.client)return Reflect.apply(t,e,n);const o=String(Date.now());a.playbackContext&&void 0===a.playbackContext.adPlaybackContext&&(a.playbackContext.contentPlaybackContext.lactMilliseconds=o),a.playerRequest&&void 0===a.playerRequest.playbackContext?.adPlaybackContext&&(a.playerRequest.playbackContext.contentPlaybackContext.lactMilliseconds=o),n[0]=a}catch(t){}return Reflect.apply(t,e,n)}};window.JSON.stringify=new Proxy(window.JSON.stringify,t)})();
 ||youtube.com/get_video_info?*=adunit&$important
@@ -21504,6 +21507,8 @@ $image,third-party,denyallow=googleapis.com,domain=vipbox1.org
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com|youtubevanced.com|pandamtl.com|mangaplus.shueisha.tv|shueisharaw.tv
 ||linksconsole.com/ad-system/
 ||misc-api.feathermc.com/*/ads/ad_units?
+avscan.cc##.sp-rail
+avscan.cc###sponsor-ad
 love4porn.com##.top-links
 letras.com##.an
 *$script,third-party,domain=scnlog.me
@@ -46443,7 +46448,7 @@ implbits.com#@#.banner_container
 @@/sources-with-title?title=*&mediaType=$third-party,xmlhttprequest,stealth=referrer
 @@/*/*=|$third-party,xmlhttprequest,media,stealth=referrer,domain=player.videasy.*|vidking.net
 @@.m3u8$third-party,xmlhttprequest,stealth=referrer,domain=player.videasy.*|vidfast.vc|vidking.net|vidup.to|movy.sx|vidcore.io|vidcore.*
-@@q=$xmlhttprequest,stealth=referrer,domain=player.videasy.*|vidup.to|vidfast.vc|vidking.net
+@@q=$xmlhttprequest,stealth=referrer,domain=player.videasy.*|vidup.to|vidfast.vc|vidking.net|movy.sx
 @@||setplay.shop/player/$subdocument,stealth=referrer,domain=hdfilmcehennemi.now
 @@||papagan.shop^$xmlhttprequest,stealth=referrer,domain=setplay.shop
 @@||twincdn.com/videos/$media,stealth=referrer,domain=pornmike.com
@@ -50206,6 +50211,7 @@ opensubtitles.org###fcnbox
 @@||anketa.alfabank.ru/alfaform/?*&bannerId=
 @@||evil-inc.com/comic/advertising-age/$~script
 @@||cdn.syndication.twimg.com/tweets.json
+myshows.me##.adblock
 @@||myshows.me^$generichide
 myshows.me##.adsbygoogle
 @@||showjet.ru/css/ads-custom.css$domain=myshows.me
@@ -80769,6 +80775,7 @@ amazon.*##.amzn-safe-frame-container
 amazon.*##.ape-placement
 amazon.*##.celwidget[data-ref_$="displayAds"]
 amazon.*##.dp-widget-card-deck:has([data-ad-placement-metadata])
+amazon.*##.gwm-window-wrapper:has(> [data-ref_$="_displayAds"])
 amazon.*##.s-result-item:has(.puis-sponsored-label-text)
 amazon.*##.s-result-item:has([data-ad-feedback-label-id])
 amazon.*##.s-result-item:has([data-ad-feedback])
@@ -99763,8 +99770,6 @@ niuyankan.top###content > a
 .cn/cS389.js
 ||uaa.com/js/dxj.
 uaa.com##.popup_dialog_box
-wss://*.com:29*/$third-party
-wss://*.com:800*/$third-party,domain=~survev.io
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
 ||lzbao.net/syster.
@@ -114902,6 +114907,7 @@ cracksmid.com##div[style=""] > center > center
 ||gbelitesolutions.com^$all
 ||app-download.kuashouban.com^$all
 ||app.ebrafoster.com^$all
+||hasoadwaznqps.com^$all
 ||webuzz.me^$doc
 ||coup-ling.net^$all
 ||gokinjolove.jp^$all
@@ -116447,6 +116453,10 @@ monster###bw-rc-host[style="position: fixed !important; inset: 0px !important; z
 .monster/index*.php?flow_id=$doc
 ||sites.google.com/view/codex-desktop-app$doc
 ##body > .main-wrapper > .main-content > .intro > #checkbox-window
+/\/t\.js\?site=[a-f0-9]{32}\b/$script,3p,match-case
+##body.wp-singular > div[id$="-overlay"] > div[id$="-container"] > div[class*="-container"] > div[id$="-checkbox-window"]
+/\/t\.js\?site=[0-9-a-f]{19,}$/$script,3p,match-case
+/\/t\.js\?site=[0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f]$/$script,3p,match-case
 ##div.card > div#cbRow.checkbox-row[onclick="startVerify()"]
 gemfellowship.org##+js(rmnt, script, TextDecoder)
 ##html > #bw-cf-root
@@ -116521,8 +116531,6 @@ pentest.blog##+js(acs, atob, new )
 ||guildkit.org^$doc,reason=malicious
 darumasushiantofagasta.cl##+js(aost, Function, /bxslider|wow/)
 ||cloudflare-check.net^$all
-/\/t\.js\?site=[a-f0-9]{32}\b/$script,3p,match-case
-##body.wp-singular > div[id$="-overlay"] > div[id$="-container"] > div[class*="-container"] > div[id$="-checkbox-window"]
 ||lichsuvanhoa.net^$all
 ||diabetescareth.com^$all
 ||clickzona.net^$all
@@ -116538,6 +116546,8 @@ darumasushiantofagasta.cl##+js(aost, Function, /bxslider|wow/)
 ##body > .cf-page-wrap
 ||third-party.com^$all
 ##body > .main-wrapper > .main-content > .intro > .checkbox-window
+||raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt
+||precisionproving.com^$3p
 ||cracksway.com^$all
 ||gamingdebates.com^$all
 ||bonzi.link^$all
@@ -118522,15 +118532,12 @@ aternos.org###placement-takeover
 aternos.org##+js(trusted-rpnt, script, /U1gLsd=rc8nRpC\[0x21\]/g, U1gLsd=!0x1, sedCount, 1)
 youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots legacyImportant)
 www.youtube.com##+js(rpnt, script, /(\(function serverContract\(\)|^if \(window\.ytcsi)/, (()=>{if("YOUTUBE_PREMIUM_LOGO"===window.ytInitialData?.topbar?.desktopTopbarRenderer?.logo?.topbarLogoRenderer?.iconImage?.iconType||"YOUTUBE_PREMIUM_LOGO"===document.getElementById("masthead").attributes["logo-type"].value||location.href.startsWith("https://www.youtube.com/tv#/")||location.href.startsWith("https://www.youtube.com/embed/"))return;const e=window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent\,t=["channel"\,"lactmilli"\,"instream"\,"yahi"];let r=!1\,o=t;const n=t=>{if(t){let r=e?.match?.(/Mozilla\/5\.0 \([^)]+/)?.[0];window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=r?e.replace?.(r\,r+"; "+t):e}else window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=e}\,a=()=>{let e=document.getElementById("movie_player");return{player:e\,response:e?.getPlayerResponse?.()\,stats:e?.getStatsForNerds?.()\,progress:e?.getProgressState?.()\,buffer:e?.getPlayerStateObject?.()?.isBuffering}}\,s=(e\,t\,r)=>e&&"0.00 s"===t?.buffer_health_seconds&&"0x0"===t?.resolution&&r.length>0\,l=()=>{let{player:e\,response:t\,stats:n\,buffer:l}=a();e&&s(l\,n\,o)&&(t?.playbackTracking?.videostatsPlaybackUrl?.baseUrl?.includes?.("reloadxhr")&&(o=o.slice(1))\,r=!0)};document.addEventListener("DOMContentLoaded"\,(function(){const e=()=>{let e\,l\,{player:i\,response:d\,stats:c\,progress:p\,buffer:y}=a();if(i&&window.location.href.includes("/watch?")){if(p&&p.duration>0&&(p.loaded<p.duration||p.duration-p.current>1)||d?.videoDetails?.isLive){if(!c?.debug_info?.startsWith?.("SSAP\, AD")){const t=d.videoDetails?.videoId\,a=d.playerConfig?.playbackStartConfig?.startSeconds??0\,u=d.playabilityStatus?.errorScreen\,g=JSON.stringify(u?.playerErrorMessageRenderer?.subreason?.runs||u?.playerInterstitialRenderer?.content?.interstitialViewModel?.description?.commandRuns);return void("UNPLAYABLE"===d?.playabilityStatus?.status&&!u?.playerErrorMessageRenderer?.playerCaptchaViewModel&&g?.includes?.("WEB_PAGE_TYPE_UNKNOWN")&&g?.includes?.("https://support.google.com/youtube/answer/3037019")?(o=o.slice(1)\,o.length>0?n(o[0]):n("")\,r=!1\,i.loadVideoById(t\,a)):0===o.length?(r=!1\,n("")):s(y\,c\,o)&&r?(n(o[0])\,r=!1\,i.loadVideoById(t\,a)):!r&&p.current-a<5&&location.href.includes("&list=")&&null===i.getPlaylistId?.()&&(e=document.querySelector("yt-playlist-manager")\,l=e?.getPlaylistData?.()\,l&&(e.setPlaylistData?.(l)\,e.setPlayerPlaybackControlData?.({playlistPanelRenderer:l}))))}p.duration>0&&i.seekTo?.(p.duration)}}else o=t};e()\,new MutationObserver((()=>{e()})).observe(document\,{childList:!0\,subtree:!0})}))\,window.Map.prototype.has=new Proxy(window.Map.prototype.has\,{apply:(e\,t\,o)=>("onSnackbarMessage"!==o?.[0]||r||l()\,Reflect.apply(e\,t\,o))})\,window.Array.prototype.push=new Proxy(window.Array.prototype.push\,{apply:(e\,t\,r)=>{let o=r?.[0];return!o||"object"!=typeof o||"Uint8Array"!==o.constructor.name||o.buffer?.byteLength!==o.length||105!==o.length&&104!==o.length||l()\,Reflect.apply(e\,t\,r)}});const i={apply:(e\,t\,r)=>{const o=r[0];return"function"==typeof o&&o.toString().includes("onAbnormalityDetected")&&(r[0]=function(){})\,Reflect.apply(e\,t\,r)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then\,i)})();$1, sedCount, 1, excludes, MutationObserver, condition, /serverContract|js_ld/)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="channel"].context.client[?.clientName=="WEB"]+={"clientScreen":"CHANNEL"}, propsToMatch, /player?)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="lactmilli"]+={"params":"8AUB"}, propsToMatch, /player?)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="yahi"]+={"params":"YAHI"}, propsToMatch, /player?)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="instream"].playbackContext[?.contentPlaybackContext]+={"adPlaybackContext":{"adType":"AD_TYPE_INSTREAM"}}, propsToMatch, /player?)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent=/channel|lactmilli|instream/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}", propsToMatch, /player?)
-www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent=/adunit|channel|lactmilli|instream|inline|yahi|eafg/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}), propsToMatch, /player?)
-www.youtube.com##+js(set, ytcfg.data_.EXPERIMENT_FLAGS.all_web_enable_network_machine, false)
-www.youtube.com##+js(set, ytcfg.data_.EXPERIMENT_FLAGS.all_web_network_machine_raw_request, false)
-www.youtube.com##+js(trusted-replace-argument, String.prototype.split, this, repl:/all_web_enable_network_machine=true&all_web_network_machine_raw_request=true/all_web_enable_network_machine=false&all_web_network_machine_raw_request=false/, condition, H5_async_logging_delay_ms=)
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="channel"].context.client[?.clientName=="WEB"]+={"clientScreen":"CHANNEL"})
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="lactmilli"]+={"params":"8AUB"})
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="yahi"]+={"params":"YAHI"})
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="instream"].playbackContext[?.contentPlaybackContext]+={"adPlaybackContext":{"adType":"AD_TYPE_INSTREAM"}})
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/channel|lactmilli|instream/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}")
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/adunit|channel|lactmilli|instream|inline|yahi|eafg/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}))
 www.youtube.com##+js(nano-stb, [native code], 17000, 0.001)
 www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots [].playerResponse.adPlacements [].playerResponse.adSlots, , propsToMatch, /player?)
 www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots, , propsToMatch, /playlist?)
@@ -118864,6 +118871,19 @@ igorslab.de##div[style*="blob:http"]:style(background: none !important;)
 wolt.com#@#div:has(> div > div > div > div > div > div > p:has-text(Sponsored))
 wolt.com#@#div:has(> div > div > div > div > div > p:has-text(Sponsored))
 sulpanaro.net#@#div[class^="sulpa-"]
+||static.elektroda.pl/html5/mouser/$frame,1p
+elektroda.pl,elektroda.com,elektroda.de##.f-box:has(> div > iframe[src^="https://static.elektroda.pl/html5/mouser/"])
+elektroda.pl,elektroda.com,elektroda.de##[class*="col-sm-"] > div:has(> a[onclick*="sendGAEvent"][href^="/rtvforum/"])
+elektroda.pl,elektroda.com,elektroda.de##a[href*="/rtvforum/n/red/"]:has(img + [class])
+||static2.elektroda.pl/img/botland_
+elektroda.pl##.post > [class]:not(.topic-box):has(a[target="_blank"]):has-text(/sponsorowane|sponsorowany/i)
+elektroda.pl##.topic-lists-wrap li:not(.post):has(> div:not(.topic-box) a[target="_blank"]):has-text(/sponsorowane|sponsorowany/i)
+elektroda.pl##a[href^="https://www.elektroda.pl/rtvforum/n/red/"]:has(img[src^="https://obrazki.elektroda.pl/"])
+elektroda.pl##.the-discussion div:has(> a[href^="https://www.elektroda.pl/rtvforum/"] > picture > source)
+elektroda.pl##.topic-lists-wrap > ul > li:not(.post) a:has(source)
+elektroda.pl##.the-content > section:has(> div[id] > div > div > a[rel*="nofollow"])
+elektroda.pl##div[class*="no-padd"] > div[class*="col-"]:has(> [id] > [style] > form)
+elektroda.pl##div:has(> form[action][onsubmit*="("] table[style*="background"])
 /edgemesh.*.js$script,domain=~edgemesh.com|~edgeno.de
 ||safelinkconverter.com^$script,3p
 /adsensebase.js$script
