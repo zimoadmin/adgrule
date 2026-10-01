@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-10-01 22:51:00
+# Update time: 2026-10-02 03:55:32
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -1486,6 +1486,10 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 #@#.ads_banner
 ##.stickyads:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"], [data-freestar-ad="123"]):not(:empty)
 ##.ads_banner:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"]):not(:empty)
+vidzer.me#%#//scriptlet('abort-on-stack-trace', 'Promise', 'setupAdblockGuard')
+uncrn.org#@#.ad-unit:not(.textads)
+uncrn.org#%#//scriptlet('prevent-element-src-loading', 'script', 'pemsrv.com')
+@@||a.pemsrv.com/popunder1000.js$domain=uncrn.org
 sexwebseries.com,nxxn.live#%#//scriptlet('prevent-setTimeout', '.clientHeight')
 sporteurope.tv#%#//scriptlet('google-ima3')
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sporteurope.tv
@@ -21514,6 +21518,8 @@ $image,third-party,denyallow=googleapis.com,domain=vipbox1.org
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com|youtubevanced.com|pandamtl.com|mangaplus.shueisha.tv|shueisharaw.tv
 ||linksconsole.com/ad-system/
 ||misc-api.feathermc.com/*/ads/ad_units?
+kimochi.info##.mochii-community-panel
+pornhub.*##.networkListContent > li:not(.languageDropdown):has( a:not([href*="pornhub.org"],[href*="help.pornhub.com"]))
 torupload.com$$script:contains(_pc6)
 torupload.com#%#//scriptlet('remove-node-text', 'script', '_pc6')
 neoseeker.com###ad336_atf
@@ -80283,6 +80289,7 @@ momondo.*##div[role="button"][tabindex="0"]:has(div.c_3eP-badge-content)
 checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[role="link"]:has(.c_3eP-badge-content)
 autoscout24.*##img[referrerpolicy="unsafe-url"]
 sameday.costco.*##li:has([aria-label="Product"]):has([data-fp-eligible]):not(:has(h2))
+deliveroo.*##li:not(:has(li)):has([data-testid="promotional-sponsor-label"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 deliveroo.*##li[class^="Slide-"]:has(div[data-testid="sponsored-tag"] > p[data-testid="label"])
 deliveroo.*##li[class^="Slide-"]:has(div[data-testid="sponsored-tag"] > p[data-testid="sponsored-tag-label"])
@@ -80573,6 +80580,7 @@ etsy.com##[data-page-type="similar-listing-page"]:has([id^="ad-listing-title-"])
 noon.com##[data-qa="plp-grid"] [data-qa="plp-product-box"]:has(svg[width="20"] > path[d])
 noon.com##[data-qa="plp-product-box"]:has([class^="SponsoredTag"])
 noon.com##[data-qa="widget_recommendedProducts"]:has(svg[width="20"] > path[d])
+wolt.com##[data-test-id="MainDiscoveryContent"] > div:has([data-test-id="AdvertisingLabel"])
 wolt.com##[data-test-id="MainDiscoveryContent"] li[draggable]:has(a[aria-label*="Sponsored"])
 stockx.com##[data-testid="banner-collage"] .chakra-aspect-ratio:has(a[title*="Promo"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([class*="AIGCAdShared"])
@@ -80755,6 +80763,7 @@ aboutyou.de##li[data-testid^="productTileTracker-"]:has([data-testid="sponsored"
 aboutyou.de##li[data-testid^="productTileTracker-"]:has(button[data-testid="spo"])
 classcentral.com##p + div:has(.responsive-post:has([href^="https://www.semrush.com"]))
 duckduckgo.com##section > div[class]:has(button[data-testid="ad-badge-ad-tooltip-products"])
+argos.co.uk##section.ds-c-carousel:has(span[class*="sponsoredBadge"])
 windowsreport.com##section.hide-mbl:has(a[href^="https://out.reflectormedia.com/"])
 hwbusters.com##section.widget:has(> div[data-hwbus-trackbid])
 thehansindia.com##section:has(> .to-be-async-loaded-ad)
@@ -114939,6 +114948,7 @@ cracksmid.com##div[style=""] > center > center
 ||app-download.kuashouban.com^$all
 ||app.ebrafoster.com^$all
 ||hasoadwaznqps.com^$all
+||d3so1q8pr29y0t.cloudfront.net^$all
 ||webuzz.me^$doc
 ||coup-ling.net^$all
 ||gokinjolove.jp^$all
@@ -119672,6 +119682,7 @@ hotosena.com,kurukura.jp,nobico.php.co.jp,healthyplace.com,qlife.jp,wiki.yjsnpi.
 chip.de,gamesworld.de,fnn.jp##.Ad
 medipalette.lotte.co.jp,genxy-net.com,m.price.com.hk,otakuma.net,nikkan-gendai.com,m.hellporno.com,topics.smt.docomo.ne.jp,rank-king.jp,kun.uz,m.lenta.ru,m.aydin24haber.com,m.xcum.com,m.alphaporno.com,m.yourlust.com,m.3movs.com,m.sexu.com##body .banner
 sp.manga.nicovideo.jp##div[style^="--ads-width:"]
+mamaslatinas.com##.gam-injector__ad-footer-wrapper
 routinehub.co##.rh-anchor__close
 eboblack.com##div.un-card-list > div.min-w-0:has(> .un-card-ad)
 weather.com##.z-adOverlay
