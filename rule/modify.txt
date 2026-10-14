@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-10-14 08:40:11
+# Update time: 2026-10-14 13:31:41
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -43051,6 +43051,7 @@ xhplus.live,xhamster46.desi,tr.myxh.today,tr.usbxh.life,xhamster44.desi,aawweb.b
 .json?status=null&message=request$domain=xhamster44.desi|xhamster43.desi|fullxh.com|interxh.site|xhspot.com|xhwide5.com|xhchannel.com|xhtotal.com|xhtree.com|xhwide2.com|xhlease.world|xhamsterporno.mx|valuexh.life|xhdate.world|xhbranch5.com|galleryxh.site|xhbig.com|xhaccess.com|xhofficial.com|seexh.com|xhamster42.desi|xhvid.com|xhamster20.desi|xhamster19.desi|xhwebsite2.com|xhamster18.desi|xhadult3.com|xhadult2.com|xhmoon5.com|xhwide1.com|xhamster3.com|xhplanet2.com|megaxh.com|xhamster16.*|xhamster.com|xhamster2.com|xhamster7.com|xhamster8.com|xhamster9.com|xhamster10.com|xhamster12.com|xhamster13.*|xhamster14.com|xhamster15.com|xhamster17.*|xhamster18.*|xhamster19.com|xhamster1.desi|xhamster2.desi|xhamster3.*|xhamster4.desi|xhamster22.com|xhamster27.com|openxh.com|xhamster5.desi|xhopen.com|openxh1.com|xhamster40.com|xhamster.one|xhamster.desi|colourxh.site|tr.usbxh.life|tr.myxh.today|xhamster46.desi|xhplus.live
 ||go.xhamsterlive.com/api/models$third-party
 /api/models/vast?
+/api/models/*^domain=xhamster
 xhplus.live,xhamster46.desi,tr.myxh.today,r.usbxh.life,xhamster44.desi,aawweb.beauty,colourxh.site,xhamster43.desi,fullxh.com,interxh.site,xhspot.com,xhwide5.com,xhchannel.com,xhtotal.com,xhtree.com,xhwide2.com,xhlease.world,xhamsterporno.mx,valuexh.life,xhdate.world,xhbranch5.com,galleryxh.site,xhbig.com,xhaccess.com,xhofficial.com,seexh.com,xhamster42.desi,xhvid.com,xhamster20.desi,xhamster19.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhamster3.com,xhplanet2.com,megaxh.com,xhamster16.*,xhamster.com,xhamster2.com,xhamster7.com,xhamster8.com,xhamster9.com,xhamster10.com,xhamster12.com,xhamster13.*,xhamster14.com,xhamster15.com,xhamster17.*,xhamster18.*,xhamster19.com,xhamster1.desi,xhamster2.desi,xhamster3.*,xhamster4.desi,xhamster22.com,xhamster27.com,openxh.com,xhamster5.desi,xhopen.com,openxh1.com,xhamster40.com,xhamster.one,xhamster.desi,stripchat.com#$#.thumb-list > .video-thumb { margin-right: 0px !important; }
 tr.myxh.today##.video-thumb[class*="__look-like-item"]
 xhplus.live,xhamster46.desi,tr.myxh.today,tr.usbxh.life,xhamster44.desi,aawweb.beauty,colourxh.site,xhamster43.desi,fullxh.com,interxh.site,xhspot.com,xhwide5.com,xhchannel.com,xhtotal.com,xhtree.com,xhwide2.com,xhlease.world,xhamsterporno.mx,valuexh.life,xhdate.world,xhbranch5.com,galleryxh.site,xhbig.com,xhaccess.com,xhofficial.com,seexh.com,xhamster42.desi,xhvid.com,xhamster20.desi,xhamster19.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhamster3.com,xhplanet2.com,megaxh.com,xhamster16.*,xhamster.com,xhamster2.com,xhamster7.com,xhamster8.com,xhamster9.com,xhamster10.com,xhamster12.com,xhamster13.*,xhamster14.com,xhamster15.com,xhamster17.*,xhamster18.*,xhamster19.com,xhamster1.desi,xhamster2.desi,xhamster3.*,xhamster4.desi,xhamster22.com,xhamster27.com,openxh.com,xhamster5.desi,xhopen.com,openxh1.com,xhamster40.com,xhamster.one,xhamster.desi,stripchat.com$$script[tag-content="initTabUnder"][max-length="12000"]
@@ -98339,7 +98340,6 @@ otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-p
 /static/tb/kyqp.gif
 /hao123/card/fill
 ://ads-img2026.
-:866/o.js$script,third-party
 /phoenix-share/js/code.123.bg.
 .top/herebyad
 /js/clickadu.js
@@ -98438,6 +98438,7 @@ wss://*/api/wss/GetNotReadCount$third-party
 ###bottommob.bottommob
 ###chs_bannerArea
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
+##.main-content > .ad-shell
 ###diads
 ###div_top_ads
 ###index_banner[src*=".meituan.net"]
@@ -98630,6 +98631,8 @@ wss://*/api/wss/GetNotReadCount$third-party
 ##.hg-ssp-slot
 ###main > .nv-ad
 ###adFloat
+##.body-adblock
+##.head-adblock
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
 ##a[href*="/137.220.194.123:"]
@@ -98643,7 +98646,6 @@ wss://*/api/wss/GetNotReadCount$third-party
 ##a[href*="/lesi151.cc"]
 ##a[href*="/lesi198.com"]
 ||affxc.com^$third-party
-##a[href*=".jmtybc.com"]
 ||1fxs.com^$third-party
 ||2hiu.com^$third-party
 ||uniicreative.com^$third-party
@@ -98708,7 +98710,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ||ad.youku.com/vp?
 ||ahuys.net/sys
 ||ali213.net/Pics/*/down_popup_
-||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
 ||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
 ||alicloud.b-cdn.net/1.js
 ||alypw.com/zb_users/plugin/ZF_tanchuang/
@@ -98975,6 +98977,7 @@ meijutt.*/js/pcjs/
 ||peachring.com/new-page/js/human-verify.
 ||peachring.com/popunder$popup
 ||91porna.com/static/web/js/ad-sdk-
+||007xf.com/html/js/top.
 xc6b.com##.cHeadImg
 chigua.com##.recommend-layer
 mscw-guidebook.com##.qiyou-ad
@@ -99194,7 +99197,7 @@ baikequ.com,lkyw.net###bottommob
 6fzd.com,fzd3.com###comiis_app_block_22
 6fzd.com,fzd3.com###comiis_app_block_74
 6fzd.com,fzd3.com###comiis_app_block_84
-111os.com###couplet
+qq.com###coo_qqBrowser
 ruanyifeng.com###cre
 27ka.cn,sunnylife.tw###custom_html-5
 chinanews.com,chinanews.com.cn###dingtong
@@ -99506,7 +99509,6 @@ huya.com##.small-handle-tip
 minepay.top##.sponsors-container
 youku.com##.src_adwrap
 alistgo.com##.ss
-zhain8.com##.ssr
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
 hcomic.net,olevod.com##.swiper
 wandhi.com##.table img
@@ -99543,7 +99545,7 @@ yii666.com##.widget-asst > p > a[href^="http"]:not([href*="yii666.com"])
 liues.cn##.widget-graphic-cover
 laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
 jiayongluyou.com##.widget_image_myimg
-abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com,zhain8.com##.widget_media_image
+abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com##.widget_media_image
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,ypojie.com##.widget_ui_orbui
 tmioe.com##.widget_image_img
 tmioe.com##.dsawss
@@ -99994,8 +99996,6 @@ wss://*.*.top/$third-party
 ||yydsxs.com/js/cnzzpiao.
 niuyankan.top###content > a
 ||biquge700.com/h5/wap.
-.cn/Ao390sW2.js
-.cn/cS389.js
 ||uaa.com/js/dxj.
 uaa.com##.popup_dialog_box
 ||lzbao.net/syster.
