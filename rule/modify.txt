@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-10-27 08:59:10
+# Update time: 2026-10-27 13:56:42
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -5908,8 +5908,6 @@ temporarymail.com#%#//scriptlet("set-constant", "adsRunningNew", "noopFunc")
 85tube.com#%#//scriptlet("set-constant", "flashvars.protect_block", "")
 85tube.com#@#.ads-iframe
 @@||85tube.com/player/player_ads.html
-pclicious.net###quads-myModal
-pclicious.net#%#//scriptlet("set-constant", "wpquads_adblocker_check_2", "true")
 @@||link1s.com/wp-banners.js
 theluckygene.com#%#//scriptlet('remove-attr', 'value', 'input#poh[value]')
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=theluckygene.com
@@ -30525,8 +30523,7 @@ cbssports.com,dpm.lol,celebmafia.com,deeplol.gg,opynew.com,imginn.com##div[data-
 ||macperformanceguide.com/_ads/
 macperformanceguide.com##div[class^="placement"]
 ||syndication.exdynsrv.com/splash.php?$removeparam
-||iili.io^$domain=adzz.in|proappapk.com
-gyanitheme.com,meclipstudy.in,adzz.in###adtera
+gyanitheme.com,meclipstudy.in###adtera
 hanime.tv##.subtext + div.event-container
 bundle.app##.upMasthead
 ||torrents-proxy.com/wp-content/uploads/
@@ -38711,7 +38708,7 @@ showsport-tv.com##body > div[id*="_overlay"]
 livestreamz.net##.lives-before-content
 slickdeals.net###logoarea
 slickdeals.net##div[id^="crt-adblock"]
-findaudiobook.com,pclicious.net,katmoviehd.*,nhlstream.net,nbastream.net###sidebar > #text-3
+findaudiobook.com,katmoviehd.*,nhlstream.net,nbastream.net###sidebar > #text-3
 nbastream.net##a[href^="http://v2.nflpass.net/register/"]
 nbastream.net##a[href^="http://www.sportyplay.com/"]
 nhlstream.net,nbastream.net##a[href="/watch-live/"]
@@ -40416,7 +40413,6 @@ bravotube.net##.content > .headline + table
 123movies.*,watchseries.*##.content-kuss
 alphaporno.com##.content-provider > a[rel="nofollow"] > img
 my.earthlink.net##.contest-promo
-world4ufree.ws##.ddbutt
 now.dolphin.com##.detail-lnk-download-banner
 speedtest.net##.dfp-ab-leaderboard
 onlinebarcodereader.com##.fadein-wrap
@@ -40986,8 +40982,6 @@ game3rb.com#?##main-wrapper > #post-footer:has(>a[href*="/aff_c?offer_id="])
 blog.nationapk.com#?#.wpsafe-top:has(> form#wpsafelink-landing) ~ div#page
 walmart.com#?#.flex > div[class]:has(> div[class][style*="contain-intrinsic-size"] > div[data-item-id] > a[href^="https://wrd.walmart.com/track?adUid"])
 pussyspace.com,pussyspace.net#?#.itemsetbox > div[id] > div[class]:last-child:has(> #showHelpUaPC)
-adzz.in,proappapk.com#?##postBody:has(#gotolink) > div:not(.text-center)
-proappapk.com#?#.blogContent:has(#verify) div.blogPosts
 mumsnet.com#?#aside > div.hidden:has(> div.relative > p:contains(Advertisement))
 msn.com#?#.views-article-body > h3.article-sub-heading:has(> a[href*="join.popularmechanics.com"])
 amazfitwatchfaces.com#?#.col-md-12 > .panel:has(> .panel-body > .advp)
@@ -119517,6 +119511,7 @@ www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestat
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="instream"].playbackContext[?.contentPlaybackContext]+={"adPlaybackContext":{"adType":"AD_TYPE_INSTREAM"}})
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/channel|lactmilli|instream/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}")
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/adunit|channel|lactmilli|instream|inline|yahi|eafg/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}))
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.createCommentParams].context.client.userAgent=repl({"regex":"/; (adunit|channel|lactmilli|instream|inline|yahi|eafg)\b/"\,"replacement":""}))
 www.youtube.com##+js(nano-stb, [native code], 17000, 0.001)
 www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots [].playerResponse.adPlacements [].playerResponse.adSlots, , propsToMatch, /\/player(\?|$)/)
 www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots, , propsToMatch, /playlist?)
@@ -119526,7 +119521,6 @@ www.youtube.com##+js(rmnt, script, window\,"fetch")
 www.youtube.com##^script[id]:has-text(window,"fetch")
 www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, fetch)
 www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Request)
-www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, JSON.parse)
 youtube.com##+js(json-prune, entries.[-].command.reelWatchEndpoint.adClientParams.isAd)
 www.youtube.com##+js(trusted-rpfr, '"adSlots"', '"no_ads"', /get_watch?)
 /\.googlevideo\.com\/videoplayback\?expire=(?:[02-9]\d+|1[1-68-9]\d+|17[1-7]\d+)&/$xhr,3p,method=get,domain=www.youtube.com
