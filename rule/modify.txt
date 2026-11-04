@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-11-04 19:38:08
+# Update time: 2026-11-05 02:54:09
 # Expires: 1 hour
 # Repo URL: https://github.com/zimoadmin/adgrule
 # 免责声明，维护不易，有问题联系，Q2114408211
@@ -65844,6 +65844,7 @@ basinnow.com,e-jpccs.jp,oxfordlearnersdictionaries.com#@##advertise
 fcbarcelona.dk#@##article_ad
 catb.org#@##banner-ad
 hifi-forsale.co.uk#@##centerads
+doumori.com,mario2-3ds.net,mario3d-wiiu.net#@##footer-ad
 wsj.com#@##footer-ads
 maxelevator.com,mcp79.com,olliemagic.com,stove-chijo.com#@##footer_ad
 deepgoretube.site,lewdgames.to#@##fwdevpDiv0
@@ -117645,6 +117646,7 @@ r2.dev##body > .main-wrapper > .main-content:has(> #checkbox-window.checkbox-win
 ||uirolader.top^$all
 ||yolopander.top^$all
 ||pentomorinexolentokarodarimexotavo.digital^$all
+##body.glue-body > #cf-modal-overlay
 ||cracksway.com^$all
 ||gamingdebates.com^$all
 ||bonzi.link^$all
@@ -120733,6 +120735,11 @@ hotosena.com,kurukura.jp,nobico.php.co.jp,healthyplace.com,qlife.jp,wiki.yjsnpi.
 chip.de,gamesworld.de,fnn.jp##.Ad
 medipalette.lotte.co.jp,genxy-net.com,m.price.com.hk,otakuma.net,nikkan-gendai.com,m.hellporno.com,topics.smt.docomo.ne.jp,rank-king.jp,kun.uz,m.lenta.ru,m.aydin24haber.com,m.xcum.com,m.alphaporno.com,m.yourlust.com,m.3movs.com,m.sexu.com##body .banner
 sp.manga.nicovideo.jp##div[style^="--ads-width:"]
+famitsu.com##div[class^="ArticleDetailMiddleRectangle-"]
+famitsu.com##div[class^="HeaderBannerForSp-"]
+metasrc.com##div[data-ad-disabled]
+goal.com##div[class*="-mpu-mobile_"]
+techspot.com##.product-wrapper > div[style]:has(> .tsadinc)
 tass.ru##div[class^="InlineAdMobile_wrapper"]
 j-town.net##.video_ad_area
 quoka.de##.mobile-anz-container
